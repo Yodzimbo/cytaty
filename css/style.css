@@ -8,9 +8,29 @@ h1, h2, h3 {
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 }
+.klawisze {
+	text-align: center;
+}
 .trigger {
-	display: inline;
-	margin: 0 auto;
-	left: 0;
-	right: 0;
+	width: 20%;
+	height: 35px;
+	background-color: #55acee;
+	border-radius: 4px;
+	color: #fff;
+	margin-top: 100px;
+}
+.twitter {
+	text-align: center;
+}
+.tweegger {
+	width: 20%;
+	height: 35px;
+	background-color: #55acee;
+	border-radius: 4px;
+	color: #fff;
+	margin-top: 50px;
+}
+a {
+	text-decoration: none;
+	color: #fff;
 }
